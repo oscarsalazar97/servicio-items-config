@@ -1,0 +1,6 @@
+server:
+  port: 9526
+configuracion:
+  texto: Configurando ambiente de produccion
+  autor:
+    nombre: oscar salazar

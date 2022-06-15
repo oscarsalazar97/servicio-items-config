@@ -1,2 +1,4 @@
 server:
-  port: 9599
+  port: 9526
+configuracion:
+  texto: Este mensaje viene desde el repositorio de configuracion  

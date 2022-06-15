@@ -1,0 +1,6 @@
+server:
+  port: 9526
+configuracion:
+  texto: Configurando ambiente de desarrollo oscar alberto
+  autor:
+    nombre: oscar Alberto salazar
